@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 def get_weather(city="San Jose"):
-    api_key = "1a7d88723d851ab7c7e3e5e14d4891cd"  # Enter API key
+    api_key = "enter_your_api_key"  # Enter API key
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric&lang=en"
     
     try:
