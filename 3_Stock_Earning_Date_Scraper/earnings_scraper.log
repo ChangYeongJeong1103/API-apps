@@ -1,0 +1,46 @@
+2025-07-13 08:13:35,617 - INFO - Earnings scraper initialized
+2025-07-13 08:13:35,617 - INFO - Scraping 14 tickers
+2025-07-13 08:13:35,617 - INFO - Processing 1/14: NVDA
+2025-07-13 08:13:35,617 - INFO - Fetching data for NVDA
+2025-07-13 08:13:35,886 - INFO - ✅ Found earnings date from calendar dict: 2025-08-27
+2025-07-13 08:13:37,053 - INFO - Processing 2/14: MSFT
+2025-07-13 08:13:37,053 - INFO - Fetching data for MSFT
+2025-07-13 08:13:37,205 - INFO - ✅ Found earnings date from calendar dict: 2025-07-30
+2025-07-13 08:13:38,440 - INFO - Processing 3/14: AAPL
+2025-07-13 08:13:38,441 - INFO - Fetching data for AAPL
+2025-07-13 08:13:38,587 - INFO - ✅ Found earnings date from calendar dict: 2025-07-31
+2025-07-13 08:13:39,757 - INFO - Processing 4/14: GOOGL
+2025-07-13 08:13:39,758 - INFO - Fetching data for GOOGL
+2025-07-13 08:13:39,933 - INFO - ✅ Found earnings date from calendar dict: 2025-07-23
+2025-07-13 08:13:41,104 - INFO - Processing 5/14: META
+2025-07-13 08:13:41,105 - INFO - Fetching data for META
+2025-07-13 08:13:41,245 - INFO - ✅ Found earnings date from calendar dict: 2025-07-30
+2025-07-13 08:13:42,419 - INFO - Processing 6/14: NFLX
+2025-07-13 08:13:42,419 - INFO - Fetching data for NFLX
+2025-07-13 08:13:42,579 - INFO - ✅ Found earnings date from calendar dict: 2025-07-17
+2025-07-13 08:13:43,807 - INFO - Processing 7/14: SPOT
+2025-07-13 08:13:43,807 - INFO - Fetching data for SPOT
+2025-07-13 08:13:43,959 - INFO - ✅ Found earnings date from calendar dict: 2025-07-29
+2025-07-13 08:13:45,149 - INFO - Processing 8/14: PLTR
+2025-07-13 08:13:45,150 - INFO - Fetching data for PLTR
+2025-07-13 08:13:45,289 - INFO - ✅ Found earnings date from calendar dict: 2025-08-04
+2025-07-13 08:13:46,462 - INFO - Processing 9/14: AVGO
+2025-07-13 08:13:46,462 - INFO - Fetching data for AVGO
+2025-07-13 08:13:46,601 - INFO - ✅ Found earnings date from calendar dict: 2025-09-03
+2025-07-13 08:13:47,773 - INFO - Processing 10/14: HOOD
+2025-07-13 08:13:47,773 - INFO - Fetching data for HOOD
+2025-07-13 08:13:47,917 - INFO - ✅ Found earnings date from calendar dict: 2025-07-30
+2025-07-13 08:13:49,083 - INFO - Processing 11/14: RKLB
+2025-07-13 08:13:49,083 - INFO - Fetching data for RKLB
+2025-07-13 08:13:49,236 - INFO - ✅ Found earnings date from calendar dict: 2025-08-06
+2025-07-13 08:13:50,419 - INFO - Processing 12/14: ORCL
+2025-07-13 08:13:50,419 - INFO - Fetching data for ORCL
+2025-07-13 08:13:50,624 - INFO - ✅ Found earnings date from calendar dict: 2025-09-08
+2025-07-13 08:13:51,841 - INFO - Processing 13/14: TSLA
+2025-07-13 08:13:51,842 - INFO - Fetching data for TSLA
+2025-07-13 08:13:51,985 - INFO - ✅ Found earnings date from calendar dict: 2025-07-21
+2025-07-13 08:13:53,156 - INFO - Processing 14/14: AEVA
+2025-07-13 08:13:53,157 - INFO - Fetching data for AEVA
+2025-07-13 08:13:53,302 - INFO - ✅ Found earnings date from calendar dict: 2025-08-05
+2025-07-13 08:13:53,479 - INFO - ✅ Sorted earnings data by date (earliest first)
+2025-07-13 08:13:53,564 - INFO - ✅ Exported 14 records to output/earnings_calendar.xlsx
